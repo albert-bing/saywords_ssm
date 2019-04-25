@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Spring-4.3.18.RELEASE" type="spring">
+    <properties version="4.3.18.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-aspects-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-context-support-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-aop-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-expression-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-instrument-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-beans-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-jdbc-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-jms-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-messaging-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-oxm-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-core-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-context-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-tx-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-orm-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commonparent/say/lib/spring-test-4.3.18.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-jdbc-4.3.18.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
